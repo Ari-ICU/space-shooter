@@ -3,7 +3,7 @@
 A browser-based space shooting game built with **Next.js 13**, TypeScript, and Tailwind CSS.  
 Test your reflexes, destroy asteroids, and aim for the high score!
 
-[Play Online](https://your-website.com) | [Next.js](https://nextjs.org)
+[Play Online](https://space-shooter-7yzp.vercel.app/) | [Next.js](https://nextjs.org)
 
 ---
 
@@ -26,7 +26,7 @@ Test your reflexes, destroy asteroids, and aim for the high score!
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/space-shooter.git
+git clone https://github.com/Ari-ICU/space-shooter
 cd space-shooter
 
 Install dependencies:
